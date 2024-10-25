@@ -1,4 +1,5 @@
 # Planung 
+- Tag 8 Ich lerne nochmals gut für die Übung und mache die Notizen bereit das ich gut vorbereitet bin für die Prüfung. Ich probiere für mich und konzerntriert zu arbeiten.
 - Tag 7 Ich mache mir meine ersten Gedanken für das Portfolio
         Ich schreibe die legalen Spicks für die Prüfung
 - Tag 6 Ich bereite mich für die Abgabe nach den Ferien vor.
