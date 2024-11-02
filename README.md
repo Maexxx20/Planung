@@ -1,4 +1,5 @@
 # Planung 
+- Tag 9 Ich mache meine Zusammenfassung für die Prüfung für kommenden Dienstag fertig und mit werde schauen wer es ebenso gemacht hat das ich es abgleichen kann. Wenn ich damit fertig bin arbeite ich an den nächsten 2 offenen Aufgaben im Modul 162
 - Tag 8 Ich lerne nochmals gut für die Übung und mache die Notizen bereit das ich gut vorbereitet bin für die Prüfung. Ich probiere für mich und konzerntriert zu arbeiten.
 - Tag 7 Ich mache mir meine ersten Gedanken für das Portfolio
         Ich schreibe die legalen Spicks für die Prüfung
@@ -9,6 +10,8 @@
 - Tag 2 4 Module, 1708, 1709, 1710 und 1717
 - Tag 1 3 Module
 #  Reflection
+- Tag 9 Meine Zusammenfassung steht und ich finde ich bin gut vorbereitet und hoffe euf eine gute Note, ich konnte mit meinem Portfolio schon anfangen.
+- Tag 8 Das hat alles einwand frei geklappt aber ich bin leider nicht ganz fertig geworden darum muss ich es noch am nächsten Freitag fertig machen. 
 - Tag 7 Fynn hat mir das Program für SWIR gezeigt, das war sehr interessant, wir habe versucht die Fehler zu beheben aber haben es nicht viel besser machen können.
 - Tag 6 ich habe mich gut vorbereitet
 - Tag 5 Ich habe 5 module abgeben können, ich bin sehr zufrieden, habe aber gegen ende gesehen das ich noch ein anderes Verbessern muss
