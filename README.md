@@ -1,4 +1,5 @@
 # Planung 
+- Tag 10 Ich arbeite heute mit Pascal und Lionel an unserem Informatik Projekt, unser Ziel ist es, sicher mmal das PAP zu erstellen und sicher die Kontakt LP zu kontaktieren.
 - Tag 9 Ich mache meine Zusammenfassung für die Prüfung für kommenden Dienstag fertig und mit werde schauen wer es ebenso gemacht hat das ich es abgleichen kann. Wenn ich damit fertig bin arbeite ich an den nächsten 2 offenen Aufgaben im Modul 162
 - Tag 8 Ich lerne nochmals gut für die Übung und mache die Notizen bereit das ich gut vorbereitet bin für die Prüfung. Ich probiere für mich und konzerntriert zu arbeiten.
 - Tag 7 Ich mache mir meine ersten Gedanken für das Portfolio
