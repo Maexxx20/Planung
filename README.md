@@ -11,6 +11,7 @@
 - Tag 2 4 Module, 1708, 1709, 1710 und 1717
 - Tag 1 3 Module
 #  Reflection
+- Tag 10 Wir sind sehr gut voran und sehr weit gekommen, wir wissen jetzt was wir die nächsten mal machen müssen und können
 - Tag 9 Meine Zusammenfassung steht und ich finde ich bin gut vorbereitet und hoffe euf eine gute Note, ich konnte mit meinem Portfolio schon anfangen.
 - Tag 8 Das hat alles einwand frei geklappt aber ich bin leider nicht ganz fertig geworden darum muss ich es noch am nächsten Freitag fertig machen. 
 - Tag 7 Fynn hat mir das Program für SWIR gezeigt, das war sehr interessant, wir habe versucht die Fehler zu beheben aber haben es nicht viel besser machen können.
