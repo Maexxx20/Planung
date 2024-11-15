@@ -1,5 +1,5 @@
 # Planung 
-- Tag 11 Ich probiere heute konzentriert von zuhause aus zu arbeiten, ich arbeite mit Pascal und Lionel per Teams Call und jeder von uns hat seine Aufgaben und muss die auch machen
+- Tag 11 Ich probiere heute konzentriert von zuhause aus zu arbeiten, ich arbeite mit Pascal und Lionel per Teams Call und jeder von uns hat seine Aufgaben und muss die auch machen. Ich mache die Testfallspezifikation
 - Tag 10 Ich arbeite heute mit Pascal und Lionel an unserem Informatik Projekt, unser Ziel ist es, sicher mmal das PAP zu erstellen und sicher die Kontakt LP zu kontaktieren.
 - Tag 9 Ich mache meine Zusammenfassung für die Prüfung für kommenden Dienstag fertig und mit werde schauen wer es ebenso gemacht hat das ich es abgleichen kann. Wenn ich damit fertig bin arbeite ich an den nächsten 2 offenen Aufgaben im Modul 162
 - Tag 8 Ich lerne nochmals gut für die Übung und mache die Notizen bereit das ich gut vorbereitet bin für die Prüfung. Ich probiere für mich und konzerntriert zu arbeiten.
