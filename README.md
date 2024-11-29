@@ -1,6 +1,7 @@
 # Planung 
+- Tag 13 Ich arbeite heute von Zuhause aus konzentreit an den Punkten die ich mit meiner Gruppe noch offen habe. Wir treffen uns zu 3 Meetings zum vergleichen wer wo steht und wissen so, was noch zu machen ist. Ich muss noch die Testfallspezifikation noch fertig machen und verbessern, dies wird viel Zeit in Aufwand nehmen denke ich. Mein Ziel ist es Zielgerichtet daran zu arbeiten, so dass wir fast fertig sind
 - Tag 12  Ich arbeite heute mit Pascal und Lionel an unserem Informatik Projekt, wir möchten unser Projekt langsam finalisieren.
-- Tag 11 Ich probiere heute konzentriert von zuhause aus zu arbeiten, ich arbeite mit Pascal und Lionel per Teams Call und jeder von uns hat seine Aufgaben und muss die auch machen. Ich mache die Testfallspezifikation
+- Tag 11 Ich probiere heute konzentriert von zuhause aus zu arbeiten, ich arbeite mit Pascal und Lionel per Teams Call und jeder von uns hat seine Aufgaben und muss die auch machen. 
 - Tag 10 Ich arbeite heute mit Pascal und Lionel an unserem Informatik Projekt, unser Ziel ist es, sicher mmal das PAP zu erstellen und sicher die Kontakt LP zu kontaktieren.
 - Tag 9 Ich mache meine Zusammenfassung für die Prüfung für kommenden Dienstag fertig und mit werde schauen wer es ebenso gemacht hat das ich es abgleichen kann. Wenn ich damit fertig bin arbeite ich an den nächsten 2 offenen Aufgaben im Modul 162
 - Tag 8 Ich lerne nochmals gut für die Übung und mache die Notizen bereit das ich gut vorbereitet bin für die Prüfung. Ich probiere für mich und konzerntriert zu arbeiten.
@@ -13,8 +14,9 @@
 - Tag 2 4 Module, 1708, 1709, 1710 und 1717
 - Tag 1 3 Module
 #  Reflection
+- Tag 13 Ich bin fertig geworden und es hat doch seine Zeit gedauert, ich bin zufrieden mit meiner Arbeit und sehe nicht mehr viele Punkte die offen sind bei unserem Projekt
 - Tag 12 Ich bin mit meiner Arbeit zufrieden, habe aber nicht so eine Ahnung wo mein Team steht, muss mich für das nächste mal Updaten
-- Tag 11 Ich bin mit der Testfallsepzifikation fertig geworden und habe sehr schnell gearbeitet, ich bin zufrieden mit meiner Arbeit.
+- Tag 11 Ich bin fertig geworden und habe sehr schnell gearbeitet, ich bin zufrieden mit meiner Arbeit.
 - Tag 10 Wir sind sehr gut voran und sehr weit gekommen, wir wissen jetzt was wir die nächsten mal machen müssen und können
 - Tag 9 Meine Zusammenfassung steht und ich finde ich bin gut vorbereitet und hoffe euf eine gute Note, ich konnte mit meinem Portfolio schon anfangen.
 - Tag 8 Das hat alles einwand frei geklappt aber ich bin leider nicht ganz fertig geworden darum muss ich es noch am nächsten Freitag fertig machen. 
