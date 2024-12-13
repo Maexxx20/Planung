@@ -16,7 +16,7 @@
 - Tag 2 4 Module, 1708, 1709, 1710 und 1717
 - Tag 1 3 Module
 #  Reflection
-Ich bin heute gut vorangekommen und konntee sogar Aufgaben im Modul 117 machen, ich bin zufrieden mit meiner Leistung
+- Tag 15 Ich bin heute gut vorangekommen und konntee sogar Aufgaben im Modul 117 machen, ich bin zufrieden mit meiner Leistung
 - Tag 14 Ich habe mich mit fynn auf ein Projekt geeiniigt, wir konnten schon beginnen und ich habe für LZ 1-4 zusammefassung.
 - Tag 13 Ich bin fertig geworden und es hat doch seine Zeit gedauert, ich bin zufrieden mit meiner Arbeit und sehe nicht mehr viele Punkte die offen sind bei unserem Projekt
 - Tag 12 Ich bin mit meiner Arbeit zufrieden, habe aber nicht so eine Ahnung wo mein Team steht, muss mich für das nächste mal Updaten
