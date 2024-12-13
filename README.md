@@ -1,4 +1,5 @@
 # Planung 
+- Tag 15 Ich Arbeite heute im Home Office unter absprache mit Fynn, wir wollen unser Projekt gut strukturiert planen und die Aufgaben gleichmässig aufteilen. Wenn wir das gemacht haben Arbeiten wir sicher mal an den Aufgaben und wenn ich noch genug Zeit habe arbeote ich am M-117.
 - Tag 14 Ich mache mit Fynn eine Dokumeantation über unser Projekt erstellen und ein Tech-Stack erstellen. Ich möchte eine Zusammenfaassung für Handlungsziel 1-4 bei 162  machen. Ich  möchte ohne hiilfe die Aufgabe: Gesamtrepetition lösen
 - Tag 13 Ich arbeite heute von Zuhause aus konzentreit an den Punkten die ich mit meiner Gruppe noch offen habe. Wir treffen uns zu 3 Meetings zum vergleichen wer wo steht und wissen so, was noch zu machen ist. Ich muss noch die Testfallspezifikation noch fertig machen und verbessern, dies wird viel Zeit in Aufwand nehmen denke ich. Mein Ziel ist es Zielgerichtet daran zu arbeiten, so dass wir fast fertig sind
 - Tag 12  Ich arbeite heute mit Pascal und Lionel an unserem Informatik Projekt, wir möchten unser Projekt langsam finalisieren.
