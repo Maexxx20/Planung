@@ -1,4 +1,5 @@
 # Planung 
+- 
 - Tag 16 Ich arbeite heute im Home Office unter absprache mit Fynn, nach dem Plan wie wir letzte Woche gemacht haben, fange ich heute an den Code für das Front end. Wir wollen gegen Schluss uns nochmal treffen und uns unsere arbeit vergleichen.
 - Tag 15 Ich Arbeite heute im Home Office unter absprache mit Fynn, wir wollen unser Projekt gut strukturiert planen und die Aufgaben gleichmässig aufteilen. Wenn wir das gemacht haben Arbeiten wir sicher mal an den Aufgaben und wenn ich noch genug Zeit habe arbeote ich am M-117.
 - Tag 14 Ich mache mit Fynn eine Dokumeantation über unser Projekt erstellen und ein Tech-Stack erstellen. Ich möchte eine Zusammenfaassung für Handlungsziel 1-4 bei 162  machen. Ich  möchte ohne hiilfe die Aufgabe: Gesamtrepetition lösen
