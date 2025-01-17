@@ -1,5 +1,5 @@
 # Planung 
-- Tag 17 Ich aeie an dem Modul 117 an den einzelnen Modul Tests und nehme mi sons noch or konzentriert und ohne vielen kleinen Pausen zu arbeiten  
+- Tag 18 Ich aeie an dem Modul 117 an den einzelnen Modul Tests und nehme mi sons noch or konzentriert und ohne vielen kleinen Pausen zu arbeiten  
 - 
 - Tag 16 Ich arbeite heute im Home Office unter absprache mit Fynn, nach dem Plan wie wir letzte Woche gemacht haben, fange ich heute an den Code für das Front end. Wir wollen gegen Schluss uns nochmal treffen und uns unsere arbeit vergleichen.
 - Tag 15 Ich Arbeite heute im Home Office unter absprache mit Fynn, wir wollen unser Projekt gut strukturiert planen und die Aufgaben gleichmässig aufteilen. Wenn wir das gemacht haben Arbeiten wir sicher mal an den Aufgaben und wenn ich noch genug Zeit habe arbeote ich am M-117.
