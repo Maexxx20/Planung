@@ -1,5 +1,5 @@
 # Planung
-- Tag 19 Ich schaue für ein neues Projekt, ich habe mit Herrn Auerbach auf dem hinweg bisschen brain storming schon betrieben. Ansonsten arbeite ich an unserem Projekt im Modul 117. Mein Ziel ist es bis ende Stunde ein Projekt gefunden zu haben und konzentriert zu arbeiten.
+- Tag 19 (24.01.25) Ich schaue für ein neues Projekt, ich habe mit Herrn Auerbach auf dem hinweg bisschen brain-storming schon betrieben. Ansonsten arbeite ich an unserem Projekt im Modul 117. Mein Ziel ist es bis ende Stunde ein Projekt gefunden zu haben und konzentriert zu arbeiten.
 - Tag 18 Ich arbeite an dem Modul 117 an den einzelnen Modul Tests und nehme mir sonst noch vor konzentriert und ohne vielen kleinen Pausen zu arbeiten  
 - 
 - Tag 16 Ich arbeite heute im Home Office unter absprache mit Fynn, nach dem Plan wie wir letzte Woche gemacht haben, fange ich heute an den Code für das Front end. Wir wollen gegen Schluss uns nochmal treffen und uns unsere arbeit vergleichen.
@@ -20,6 +20,7 @@
 - Tag 2 4 Module, 1708, 1709, 1710 und 1717
 - Tag 1 3 Module
 #  Reflection
+- Tag 19 (24.01.25) Ich habe eine gute Idee für ein Projekt gefunden und sie wurde auch bestätigt, dass heisst für das nächste mal steht eine Projektplannung auf dem Plan.  
 - Tag 16 Ich bin mit dem Code vorangekommen und Fynn und ich haben es uns erfolgreich gezeigt 
 - Tag 15 Ich bin heute gut vorangekommen und konntee sogar Aufgaben im Modul 117 machen, ich bin zufrieden mit meiner Leistung
 - Tag 14 Ich habe mich mit fynn auf ein Projekt geeiniigt, wir konnten schon beginnen und ich habe für LZ 1-4 zusammefassung.
