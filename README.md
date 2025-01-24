@@ -1,4 +1,5 @@
-# Planung 
+# Planung
+- Tag 19 Ich schaue für ein neues Projekt, ich habe mit Herrn Auerbach auf dem hinweg bisschen brain storming schon betrieben. Ansonsten arbeite ich an unserem Projekt im Modul 117. Mein Ziel ist es bis ende Stunde ein Projekt gefunden zu haben und konzentriert zu arbeiten.
 - Tag 18 Ich arbeite an dem Modul 117 an den einzelnen Modul Tests und nehme mir sonst noch vor konzentriert und ohne vielen kleinen Pausen zu arbeiten  
 - 
 - Tag 16 Ich arbeite heute im Home Office unter absprache mit Fynn, nach dem Plan wie wir letzte Woche gemacht haben, fange ich heute an den Code für das Front end. Wir wollen gegen Schluss uns nochmal treffen und uns unsere arbeit vergleichen.
